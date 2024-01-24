@@ -7,6 +7,7 @@ html {
         "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
         "Helvetica Neue", "Segoe UI Emoji", "Apple Color Emoji",
         "Noto Color Emoji", sans-serif;
+        background-color: bisque;
     /*background-color: aquamarine;  */
 }
 
@@ -93,13 +94,13 @@ html {
     width: 600px;
     display: block;
 }
-#html{
+/* #html{
     background : linear-gradient(to bottom, black 10%,rgb(0, 0, 114) 100%,transparent);
     padding-bottom: 4px;
     padding-top: 4px;
-}
+} */
 /* Backgrounds */
-#gradient {
+/* #gradient {
     width: 100%;
     height:100%;
     background: linear-gradient(-45deg,#ee7752, #e73c7e, #23a6d5, #23d5ab);
@@ -125,17 +126,9 @@ html {
 
 
 /* Categorize Later */
-a.a:hover{
-    background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-    background-size: 400% 400%;
-    animation: gradient 15s ease-in infinite;
-    filter: brightness(100%);
-}
-
-
 
 /*
 :target {
     border: 2px solid #D4D4D4;
     background-color: #e5eecc;
-  }
+  } */
