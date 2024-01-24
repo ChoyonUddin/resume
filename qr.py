@@ -8,6 +8,6 @@ qr = qrcode.QRCode(
 qr.add_data('https://choyonuddin.github.io/resume/Choyon%20Resume%20October.pdf')
 qr.make(fit=True)
 
-img = qr.make_image(fill_color="blue", back_color="white")
+img = qr.make_image(fill_color="White", back_color="black")
 
-img.save("TestQR.png")
+img.save("resume.Jpeg")
