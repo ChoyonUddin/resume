@@ -10,4 +10,4 @@ qr.make(fit=True)
 
 img = qr.make_image(fill_color="White", back_color="black")
 
-img.save("resume.Jpeg")
+img.save("resumeQR.Jpeg")
