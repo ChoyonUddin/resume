@@ -1,2 +1,2 @@
 # Resume
-My Professional Technical Resume for Software related jobs
+My Professional Technical Resume for Software and Data related jobs
